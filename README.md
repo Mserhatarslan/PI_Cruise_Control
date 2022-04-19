@@ -9,4 +9,4 @@ P(s) = U(s)/V(s)= 1/m*s+b
 
 When proportional and integral parameters are Kp= 500, Ki=50 system response is
 
-![image](https://user-images.githubusercontent.com/63358327/164084839-1a6331a3-51da-45b3-bb7f-f73ce814c9b9.png)
+![image](https://user-images.githubusercontent.com/63358327/164085089-973295b9-ce6b-4a0c-9b96-b5b2bb38ee46.png)
